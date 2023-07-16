@@ -1,0 +1,20 @@
+.SideBar {
+    height: 100%;
+    width: 18%;
+    float: left;
+}
+
+.PlayControls {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.Controls {
+    width: 100%;
+    left: 0px;
+    position: absolute;
+    top: auto;
+    bottom: 0px;
+    /* border: solid; */
+}

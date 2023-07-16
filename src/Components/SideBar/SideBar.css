@@ -1,0 +1,26 @@
+/* SideBar */
+.ps-sidebar-container {
+    position: static !important;
+    height: 100vh !important;
+}
+
+.logotext {
+    padding-top: 5%;
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* MenuItem */
+.ps-menu-root>ul>li {
+    font-weight: 600;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ps-menu-root>ul>li:hover {
+    color: black;
+    background-color: whitesmoke;
+}

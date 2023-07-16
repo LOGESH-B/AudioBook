@@ -1,0 +1,13 @@
+.Photo {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    width: 18%;
+    border-radius: 12px;
+    box-shadow: rgba(255, 255, 255, 0.2) 30px 0px 50px;
+}
+
+.function{
+    position: relative;
+    right: 0px;
+}
